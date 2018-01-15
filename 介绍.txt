@@ -2,10 +2,12 @@ this is a file with no information
 I just want to use it to test the function of github
 this is the first test row
 
+
 this the main branch
 I am working on this main branch
 and I dont know what is happened otherside
-=======
-������һ�����İ���
+
+���ڽ���ˣ���һ�����İ���
 
 Ȼ���������˵һ������
+
