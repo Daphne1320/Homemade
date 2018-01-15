@@ -1,3 +1,6 @@
 this is a file with no information
 I just want to use it to test the function of github
+I add a secrete information whilch I dont want anybody to see except me.
 this is the first test row
+
+现在是一个中文版了
