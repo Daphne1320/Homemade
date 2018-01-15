@@ -4,3 +4,5 @@ I add a secrete information whilch I dont want anybody to see except me.
 this is the first test row
 
 现在是一个中文版了
+
+然后我再随便说一点中文
